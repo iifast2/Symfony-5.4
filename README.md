@@ -274,19 +274,20 @@ https://symfony.com/doc/current/doctrine.html#configuring-the-database
 
 #if you are using wampp : 
 
-cd C:\wamp64\www\appformation
-
+```
+cd C:\wamp64\www\your-project
+```
 or 
 
 #if you are using xampp : 
-
-cd C:\xampp\htdocs\appformation
-
+```
+cd C:\xampp\htdocs\your-project
+```
 # then to run the application
 
-
+```
 Symfony serve
-
+```
 
 
 
