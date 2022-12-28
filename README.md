@@ -117,6 +117,7 @@ composer update symfony/flex --no-plugins --no-scripts
 
 
 ```
+
 D:\mywebsite\symfonyprojects\symfony5-laposte\appformation>composer
 symfony/runtime contains a Composer plugin which is currently not in your allow-plugins config. See https://getcomposer.org/allow-plugins
 Do you trust "symfony/runtime" to execute code and wish to enable it now? (writes "allow-plugins" to composer.json) [y,n,d,?] y
