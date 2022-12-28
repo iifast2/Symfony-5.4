@@ -263,32 +263,37 @@ https://symfony.com/doc/current/doctrine.html#configuring-the-database
 
 
 
-
+<br/>
 
 ---
 ---
 
+<br/><br/><br/>
 
 # Run your app : 
 
 
-#if you are using wampp : 
+* if you are using wampp : 
 
 ```
 cd C:\wamp64\www\your-project
 ```
 or 
 
-#if you are using xampp : 
+* if you are using xampp : 
 ```
 cd C:\xampp\htdocs\your-project
 ```
-# then to run the application
-
+### <b> then to run the application  <b/>
+run one of these commands to start your app:
+   
 ```
 Symfony serve
+
+symfony server:start   
 ```
 
+   
 
 
 
