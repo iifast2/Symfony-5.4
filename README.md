@@ -1,16 +1,16 @@
-# Symfony-5.4
+# Symfony 5.4
 
-Status: MAINTAINED
-
-Requires: PHP 7.2.5 or higher
-
-Latest patch version: 5.4.16
-
-Released on: November 2021
-
-End of bug fixes: November 2024
-
-End of security fixes: November 2025
+> Status: MAINTAINED 
+> 
+> Requires: PHP 7.2.5 or higher
+> 
+> Latest patch version: 5.4.16
+> 
+> Released on: November 2021
+> 
+> End of bug fixes: November 2024
+> 
+> End of security fixes: November 2025
 
 <br/><br/>
 
@@ -45,12 +45,14 @@ php --version
 ```
 
 
-```
-PHP 7.4.33 (cli) (built: Nov  2 2022 16:00:55) ( ZTS Visual C++ 2017 x64 )
-Copyright (c) The PHP Group
-Zend Engine v3.4.0, Copyright (c) Zend Technologies
-```
 
+> PHP 7.4.33 (cli) (built: Nov  2 2022 16:00:55) ( ZTS Visual C++ 2017 x64 )
+> 
+> Copyright (c) The PHP Group
+> 
+> Zend Engine v3.4.0, Copyright (c) Zend Technologies
+ 
+ 
 <br/>
 <br/>
 
@@ -259,7 +261,15 @@ For this app we will use xampp or wamp server's phpMyAdmin SQL database ( mysql 
 ## Configuring 
 https://symfony.com/doc/current/doctrine.html#configuring-the-database
 
+The database connection information is stored as an environment variable called ```DATABASE_URL```. For development, you can find and customize this inside ```.env``` :
 
+### ```.env``` (or override DATABASE_URL in ```.env.local``` to avoid committing your changes)
+
+### customize this line!
+
+```
+DATABASE_URL="mysql://db_user:db_password@127.0.0.1:3306/db_name?serverVersion=5.7"
+```
 
 
 
