@@ -193,8 +193,55 @@ symfony -v
 ```
 
 
+___
 
 
+```
+
+C:\xampp\htdocs\symfony5-laposte\appformation>symfony check:requirements
+
+Symfony Requirements Checker
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+> PHP is using the following php.ini file:
+C:\xampp\php\php.ini
+
+> Checking Symfony requirements:
+
+....................WWW......W..
+
+
+ [OK]
+ Your system is ready to run Symfony projects
+
+
+Optional recommendations to improve your setup
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ * intl extension should be available
+   > Install and enable the intl extension (used for validators).
+
+ * a PHP accelerator should be installed
+   > Install and/or enable a PHP accelerator (highly recommended).
+
+ * realpath_cache_size should be at least 5M in php.ini
+   > Setting "realpath_cache_size" to e.g. "5242880" or "5M" in
+   > php.ini* may improve performance on Windows significantly in some
+   > cases.
+
+ * "post_max_size" should be greater than "upload_max_filesize".
+   > Set "post_max_size" to be greater than "upload_max_filesize".
+
+
+Note  The command console can use a different php.ini file
+~~~~  than the one used by your web server.
+      Please check that both the console and the web server
+      are using the same PHP version and configuration.
+
+
+C:\xampp\htdocs\symfony5-laposte\appformation>
+
+```
 
 
 
