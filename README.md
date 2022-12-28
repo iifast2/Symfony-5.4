@@ -250,8 +250,14 @@ C:\xampp\htdocs\symfony5-laposte\appformation>
 
 ```
 
+---
 
 # Importing / Creating our database 
+For this app we will use xampp or wamp server's phpMyAdmin SQL database ( mysql databse ) : 
+
+
+## Configuring 
+https://symfony.com/doc/current/doctrine.html#configuring-the-database
 
 
 
@@ -259,12 +265,27 @@ C:\xampp\htdocs\symfony5-laposte\appformation>
 
 
 
+---
+---
 
 
+# Run your app : 
 
 
+#if you are using wampp : 
+
+cd C:\wamp64\www\appformation
+
+or 
+
+#if you are using xampp : 
+
+cd C:\xampp\htdocs\appformation
+
+# then to run the application
 
 
+Symfony serve
 
 
 
