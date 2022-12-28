@@ -196,6 +196,13 @@ symfony -v
 ___
 
 
+
+```
+symfony check:requirements
+```
+
+
+
 ```
 
 C:\xampp\htdocs\symfony5-laposte\appformation>symfony check:requirements
@@ -244,7 +251,7 @@ C:\xampp\htdocs\symfony5-laposte\appformation>
 ```
 
 
-
+# Importing / Creating our database 
 
 
 
