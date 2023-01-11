@@ -129,108 +129,78 @@
 </p><br/>
 
 
+<br/>
+
+---
+
+## Symfony Profiler
+
+<br/>
 
 
 <p align="center">
-  <img alt="img-name" src=" ">
+  <img alt="img-name" src="https://i.imgur.com/IXk3Cpy.png">
   <br>
-    <em> caption</em>
+    <em> _Profiler / Routing : http://127.0.0.1:8000/_profiler/87b00a?panel=router</em>
+</p><br/>
+
+
+
+<p align="center">
+  <img alt="img-name" src="https://i.imgur.com/oe5R7cg.png">
+  <br>
+    <em> Profiler / Translation</em>
+</p><br/>
+
+
+<br/>
+
+---
+
+## DataBase (PhpMyAdmin) 
+
+<br/>
+
+
+<p align="center">
+  <img alt="img-name" src="https://i.imgur.com/YaBkJnA.png">
+  <br>
+    <em> DataBase/laposte</em>
+</p><br/>
+
+
+
+<p align="center">
+  <img alt="img-name" src="https://i.imgur.com/LQB2e7z.png">
+  <br>
+    <em> DataBase / Table : User</em>
+</p><br/>
+
+
+
+<p align="center">
+  <img alt="img-name" src="https://i.imgur.com/Etkfcp3.png">
+  <br>
+    <em> DataBase / Table : Formation</em>
 </p><br/>
 
 
 
 
 <p align="center">
-  <img alt="img-name" src=" ">
+  <img alt="img-name" src="https://i.imgur.com/jyNGCy6.png">
   <br>
-    <em> caption</em>
-</p><br/>
-
-
-<p align="center">
-  <img alt="img-name" src=" ">
-  <br>
-    <em> caption</em>
-</p><br/>
-
-
-
-<p align="center">
-  <img alt="img-name" src=" ">
-  <br>
-    <em> caption</em>
-</p><br/>
-
-
-
-<p align="center">
-  <img alt="img-name" src=" ">
-  <br>
-    <em> caption</em>
+    <em> DataBase / Table : doctrine_migration_versions</em>
 </p><br/>
 
 
 
 
 <p align="center">
-  <img alt="img-name" src=" ">
+  <img alt="img-name" src="https://i.imgur.com/jpWiY6X.png">
   <br>
-    <em> caption</em>
+    <em> DataBase / Table : category</em>
 </p><br/>
-
-
-
-
-<p align="center">
-  <img alt="img-name" src=" ">
-  <br>
-    <em> caption</em>
-</p><br/>
-
-
-
-
-<p align="center">
-  <img alt="img-name" src=" ">
-  <br>
-    <em> caption</em>
-</p><br/>
-
-
-
-
-<p align="center">
-  <img alt="img-name" src=" ">
-  <br>
-    <em> caption</em>
-</p><br/>
-
-
-
-
-<p align="center">
-  <img alt="img-name" src=" ">
-  <br>
-    <em> caption</em>
-</p><br/>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
