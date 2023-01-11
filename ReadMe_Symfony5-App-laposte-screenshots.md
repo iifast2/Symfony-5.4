@@ -1,9 +1,9 @@
-# App screenshots : 
+# App screenshots 
 <br/>
 
 ---
-
-## Admin Dashboard : 
+.(https://imgur.com/a/FQaDAzL)
+## Admin Dashboard 
 <br/>
 <p align="center">
   <img alt="img-name" src="https://i.imgur.com/O3W8mgn.png">
@@ -73,7 +73,7 @@
 
 ---
 
-## My App :
+## My App 
 
 
 
