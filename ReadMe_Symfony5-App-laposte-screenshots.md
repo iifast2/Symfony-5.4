@@ -2,7 +2,7 @@
 <br/>
 
 ---
-.(https://imgur.com/a/FQaDAzL)
+
 ## Admin Dashboard 
 <br/>
 <p align="center">
@@ -205,3 +205,4 @@
 
 
 
+[.](https://imgur.com/a/FQaDAzL)
