@@ -63,60 +63,60 @@
 
 
 <p align="center">
-  <img alt="img-name" src=" ">
+  <img alt="img-name" src="https://i.imgur.com/qKURJbV.png">
   <br>
-    <em> caption</em>
+    <em>Dashboard/User/Edit User</em>
 </p>
 
 
 
 <p align="center">
-  <img alt="img-name" src=" ">
+  <img alt="img-name" src="https://i.imgur.com/AX7mPzB.png">
   <br>
-    <em> caption</em>
+    <em> HomePage2/OurTrainings (Formations) : http://127.0.0.1:8000/nos-formation</em>
 </p>
 
 
 
 <p align="center">
-  <img alt="img-name" src=" ">
+  <img alt="img-name" src="https://i.imgur.com/R4Nrfej.png">
   <br>
-    <em> caption</em>
+    <em> MyAccount ( User Profile ) : http://127.0.0.1:8000/compte</em>
 </p>
 
 
 
 <p align="center">
-  <img alt="img-name" src=" ">
+  <img alt="img-name" src="https://i.imgur.com/tVasoqD.png">
   <br>
-    <em> caption</em>
-</p>
-
-
-
-
-<p align="center">
-  <img alt="img-name" src=" ">
-  <br>
-    <em> caption</em>
+    <em> MyAccount(UserProfile)/ Modify My Password : http://127.0.0.1:8000/compte/modifier-mon-mot-de-passe</em>
 </p>
 
 
 
 
 <p align="center">
-  <img alt="img-name" src=" ">
+  <img alt="img-name" src="https://i.imgur.com/Q5f8G9q.png">
   <br>
-    <em> caption</em>
+    <em> HomePage1 : http://127.0.0.1:8000/</em>
 </p>
 
 
 
 
 <p align="center">
-  <img alt="img-name" src=" ">
+  <img alt="img-name" src="https://i.imgur.com/yIMC7U1.png">
   <br>
-    <em> caption</em>
+    <em> Login Page ( Sign-in ) : http://127.0.0.1:8000/connexion</em>
+</p>
+
+
+
+
+<p align="center">
+  <img alt="img-name" src="https://i.imgur.com/x9ykWso.png">
+  <br>
+    <em> Register Page ( Sign-up ) : http://127.0.0.1:8000/inscription</em>
 </p>
 
 
