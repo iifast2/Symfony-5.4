@@ -1,7 +1,59 @@
 # App screenshots 
 <br/>
 
+
+
+
+<p align="center">
+  <img alt="img-name" src="https://i.imgur.com/VorVn8l.png">
+</p><br/>
+
+
+<br/>
+
 ---
+
+<br/>
+
+## UML Diagrams
+
+
+<p align="center">
+  <img alt="img-name" src="https://i.imgur.com/9selr0C.png">
+  <br>
+    <em> Global Use Case Diagram</em>
+</p><br/>
+
+
+<p align="center">
+  <img alt="img-name" src="https://i.imgur.com/x3GmzV0.png">
+  <br>
+    <em> Use Case Diagram ~ Manage Accounts</em>
+</p><br/>
+
+
+<p align="center">
+  <img alt="img-name" src="https://i.imgur.com/Sqowem2.png">
+  <br>
+    <em> Use Case Diagram ~ Manage Training</em>
+</p><br/>
+
+
+<p align="center">
+  <img alt="img-name" src="https://i.imgur.com/5qsiSK9.png">
+  <br>
+    <em> Use Case Diagram ~ Manage Categories</em>
+</p><br/>
+
+
+
+<br/>
+
+---
+
+
+
+<br/><br/>
 
 ## Admin Dashboard 
 <br/>
