@@ -17,6 +17,29 @@
 
 ## UML Diagrams
 
+### Admin : 
+
+* Manage users accounts ( CRUD )
+* Manage users Roles ( can Assign a role to a user )
+* Manage Trainings
+* Manage Trainings Categories
+* Assign a Training to a Training to a user
+
+
+### Trainer :
+* Manage Trainings ( CRUD ) 
+* Manage Categories
+* Assign a Training to a Training to a user
+
+
+
+### User ( Trainee ) : 
+* Can view all Trainings 
+* Can ask (demand) the Admin / Trainer to participate in a Training
+* Can participate in a training 
+
+
+<br/>
 
 <p align="center">
   <img alt="img-name" src="https://i.imgur.com/9selr0C.png">
